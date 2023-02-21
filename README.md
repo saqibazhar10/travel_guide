@@ -1,6 +1,6 @@
 # The deployed link of the project
 https://guileless-griffin-c8031b.netlify.app/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
